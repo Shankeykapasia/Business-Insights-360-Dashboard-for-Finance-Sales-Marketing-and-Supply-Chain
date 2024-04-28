@@ -1,6 +1,9 @@
 # Business-Insights-360-Dashboard-for-Finance-Sales-Marketing-and-Supply-Chain
 AtliQ Hardwares is a consumer electronics company expanding rapidly but is not able to compete with other companies using data as most of their report still exists in Excel. My goal is to implement an advanced analytics solution using Power BI that will enable the company to get insights and make informed decisions.
 
+![50 artıfıcıal ıntellıgence applıcatıons (1)](https://github.com/Shankeykapasia/Business-Insights-360-Dashboard-for-Finance-Sales-Marketing-and-Supply-Chain/assets/140109263/b73fd2b2-69f9-49bf-b29f-1812358a3cf4)
+
+
 Project Description: 
 
 In this project, the goal is to be one report which could be used by stakeholders from sales, marketing, finance and executive team. The focus is made on the following
